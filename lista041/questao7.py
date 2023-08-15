@@ -7,5 +7,5 @@ mn = num * -1
 
 if (num < 0):
     print(f"O módulo do seu número é: {mn}.")
-elif (num >= 0):
+if (num >= 0):
     print(f"O módulo do seu número é: {num}.")
